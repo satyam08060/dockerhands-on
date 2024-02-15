@@ -1,0 +1,7 @@
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\dockerHandson.exe
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\dockerHandson.dll
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\dockerHandson.deps.json
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\dockerHandson.runtimeconfig.json
+C:\Users\Satya\Desktop\dockerHandson\bin\Release\net8.0\publish\dockerHandson.pdb
